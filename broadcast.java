@@ -20,7 +20,6 @@ import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.streaming.api.functions.co.BroadcastProcessFunction;
 import org.apache.flink.util.Collector;
 import org.apache.hadoop.hbase.client.Connection;
-
 import java.io.IOException;
 import java.util.*;
 
